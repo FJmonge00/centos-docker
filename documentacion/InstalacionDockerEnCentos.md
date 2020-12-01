@@ -10,10 +10,12 @@
 ## Iniciamos y activamos el servicio de docker
 `systemctl start docker`
 `systemctl enable docker`
+
 ![servicio](../imagenes/1.png)
 
 ## Vemos la versión
 `docker --version`
+
 ![version](../imagenes/2.png)
 ________________________________________
 *[Volver al indice...](../README.md)*
