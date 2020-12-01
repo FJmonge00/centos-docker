@@ -4,3 +4,6 @@
 ## [2.- Instalación de docker-compose en Centos](documentacion/DockerComposeEnCentos.md)
 ## [3.- Comprobación](documentacion/comprobaciones.md)
 # Referencias
+- <https://www.howtoforge.com>
+- <https://docs.docker.com>
+- <https://github.com>
